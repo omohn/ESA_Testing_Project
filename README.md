@@ -1,3 +1,9 @@
+# ESA Testing
+## part 1 und 2
+
+Die Tests befinden sich hier:
+https://github.com/omohn/ESA_Testing_Project/blob/esa_test/tests/model/AnnouncementTest.java
+
 # Fluffy Vacation
 ## Lernprojekt für das Modul Softwaretechnik 
 ### Online-Studiengang Medieninformatik Bachelor, Beuth-Hochschule für Technik Berlin, Oliver Mohn, WS 2020/21
