@@ -97,7 +97,7 @@ author: Oliver Mohn SWT-project: Fluffy Vacation
 
         <mkdir dir="${buildDir}/${docDir}"/>
         <javadoc destdir="${buildDir}/${docDir}">
-            <fileset dir="${srcDir}/models" />
+            <fileset dir="src/model" />
         </javadoc>
     </target>
 

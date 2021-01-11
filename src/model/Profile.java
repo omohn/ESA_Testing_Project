@@ -1,4 +1,4 @@
-package models;
+package model;
 
 /**
  * Abstract Profile Class
